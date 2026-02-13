@@ -1,1 +1,1 @@
-
+package net.minecraft.client;
